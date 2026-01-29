@@ -1,19 +1,55 @@
-# AWS Labs
+# AWS Labs Portfolio
 
-Ce repo contient plusieurs labs pratiques pour apprendre AWS et IaC.
+This repository is a curated portfolio of hands-on AWS labs demonstrating
+real-world cloud architectures, Infrastructure as Code, and DevOps practices.
 
-## Labs disponibles
+The goal is to showcase practical, production-oriented AWS skills rather than demos.
 
-- [API Gateway](./api-gateway)  
-- [CloudFormation](./cloudformation)  
-- [ECS](./ecs)  
-- [HTTP API](./http-api)  
-- [Lambda](./lambda)  
-- [RDS](./rds)  
-- [Step Functions](./step-functions)  
-- [Terraform](./terraform)  
+---
 
-## Tags
+## 🔹 Serverless & APIs
+- **HTTP API with AWS SAM**
+  - AWS Lambda
+  - API Gateway (HTTP API)
+  - IAM, CloudWatch
+- **REST API with API Gateway**
+  - Stages, deployments, security basics
+- **AWS Step Functions**
+  - Workflow orchestration
+  - Error handling & retries
 
-#AWS #Lambda #ECS #Terraform #CloudFormation #DevOps #HandsOn
+---
+
+## 🔹 Containers & Compute
+- **Docker → Amazon ECR → ECS Fargate**
+  - Container build & push
+  - ECS task definitions & services
+  - Cloud-native container deployment
+
+---
+
+## 🔹 Infrastructure as Code (IaC)
+- **Terraform – AWS Networking**
+  - VPC, subnets, routing
+  - Security groups, gateways
+- **CloudFormation**
+  - Nested stacks
+  - Limits & best practices
+
+---
+
+## 🔹 Data
+- **Amazon RDS**
+  - Engine setup (MySQL/PostgreSQL)
+  - Networking & security considerations
+
+---
+
+## 📁 Repository Structure
+Each folder is a standalone lab with:
+- its own README
+- clear objectives
+- reproducible steps
+
+
 
