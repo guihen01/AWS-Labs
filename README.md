@@ -52,4 +52,22 @@ Each folder is a standalone lab with:
 - reproducible steps
 
 
+AWS-Labs/
+├── API-Gateway/
+├── HTTP API/
+├── Lambda/
+├── Step Function/
+├── ECS/
+├── RDS/
+├── Terraform/
+├── CloudFormation/
+
+
+---
+
+## 🎯 What this portfolio demonstrates
+- Hands-on AWS experience
+- Infrastructure as Code mindset
+- Clean structure & documentation
+- Cloud architectures close to production reality
 
