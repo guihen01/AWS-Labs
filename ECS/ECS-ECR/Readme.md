@@ -38,3 +38,6 @@ Premier lab pratique pour préparer une image **Docker WordPress** destinée à 
 
 ```bash
 aws ecr create-repository --repository-name wordpress-lab --region ca-central-1
+
+
+docker build -t wordpress-lab .
