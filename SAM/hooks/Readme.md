@@ -39,13 +39,6 @@ Lab volontairement **simple et pédagogique** autour du déploiement d’une fon
 
 ---
 
-## 📁 Structure du projet
-
-## Structure du projet
-
-![Structure du projet](https://example.com/structure-projet.png)
----
-
 ## ✅ Comportement attendu
 
 - Échec du hook **pre-deploy** → déploiement interrompu
