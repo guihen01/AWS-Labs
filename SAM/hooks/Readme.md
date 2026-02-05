@@ -43,7 +43,7 @@ Lab volontairement **simple et pédagogique** autour du déploiement d’une fon
 
 ## Structure du projet
 
-![Structure du projet](docs/structure-projet.png)
+![Structure du projet(docs/structure-projet.png)
 
 ---
 
