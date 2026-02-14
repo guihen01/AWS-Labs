@@ -1,8 +1,17 @@
+# AWS TGW SD-WAN Lab
 
-# AWS Transit Gateway SD-WAN Lab (BGP)
+This lab demonstrates a hub-and-spoke SD-WAN architecture using AWS Transit Gateway.
 
-This lab demonstrates a hybrid SD-WAN architecture on AWS using:
+## Versions
+- Simple Terraform (for learning)
+- Modular Terraform (production-like)
+
+## Architecture
+- 3 VPCs (Prod, Dev, Edge)
 - Transit Gateway
-- Multiple VPCs (Prod / Dev)
 - EC2 instances simulating SD-WAN edges
-- BGP routing over VPN
+
+## Tests
+- Connectivity tests
+- Failure scenarios
+
