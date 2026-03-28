@@ -1,0 +1,8 @@
+framework:
+  - terraform
+
+output: cli
+
+skip-check:
+  - CKV_AWS_144   # cross-region replication (hors scope)
+  - CKV2_AWS_62   # event notifications (hors scope)
