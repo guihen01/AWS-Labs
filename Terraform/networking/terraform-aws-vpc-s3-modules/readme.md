@@ -1,9 +1,19 @@
-☁️ Terraform Modules Lab – VPC & S3 (Dev/Prod)
- 
- 
- 
+<h1>☁️ Terraform Modules Lab – VPC & S3 (Dev/Prod)</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/Terraform-v1.3+-623CE4?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/github/repo-size/guihen01/AWS-Labs" />
+  <img src="https://img.shields.io/github/last-commit/guihen01/AWS-Labs" />
+  <img src="https://img.shields.io/github/stars/guihen01/AWS-Labs?style=social" />
+  <img src="https://img.shields.io/github/license/guihen01/AWS-Labs" />
+</p>
+
+<hr/>
 ________________________________________
+
 📌 Description
+
 This lab demonstrates how to use Terraform modules to deploy a simple AWS infrastructure with two environments:
 
 •	Development (dev)
