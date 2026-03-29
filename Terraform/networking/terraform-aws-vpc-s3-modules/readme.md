@@ -39,7 +39,9 @@ terraform-vpc-s3-modules/
 │   ├── vpc/
 │   └── s3/
 
-
+<p>
+  <img src="images/terraform-vpc-s3-modules.png" />
+</p>
 ________________________________________
 ⚙️ Prerequisites
 
@@ -59,6 +61,12 @@ ________________________________________
 
 To display outputs after deployment:
 terraform output
+________________________________________
+
+<p>
+  <img src="images/state-list.png" />
+</p>
+
 ________________________________________
 ⚠️ Notes
 
