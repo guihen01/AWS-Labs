@@ -60,8 +60,17 @@ ________________________________________
 📊 Outputs
 
 To display outputs after deployment:
+
 terraform output
+
+<p>
+  <img src="images/terraform-output.png" />
+</p>
 ________________________________________
+
+To dislay created ressources in AWS :
+
+terraform state list
 
 <p>
   <img src="images/state-list.png" />
