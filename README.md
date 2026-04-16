@@ -8,7 +8,7 @@ Designed to simulate real cloud engineering scenarios across serverless, contain
 ---
 
 ## 🏗️ Architecture
-(Add diagram here)
+![EC2 Instances](images/architecture.png)
 
 ---
 
